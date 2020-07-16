@@ -1,15 +1,11 @@
 body{
   background-color: #44FA02;
   margin: auto;
-  font-family: sans-serif;
+  font-family: 'Squada One', cursive;
   position: fixed;
-  top: 0;
+  top: 100px;
   width: 100%;
   padding: 5px;
   text-align: center;
-}
-
-main {
-  background: #474747;
-  padding: 4px
+  align-items:center;
 }
