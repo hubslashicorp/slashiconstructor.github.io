@@ -9,3 +9,9 @@ body{
   text-align: center;
   align-items:center;
 }
+.container{
+  position: fixed!important;
+}
+.loader{
+  padding-top: 10 !important;
+}
