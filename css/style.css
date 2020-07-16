@@ -9,9 +9,19 @@ body{
   text-align: center;
   align-items:center;
 }
-.container{
-  position: fixed!important;
+
+#container{
+  position: fixed !important;
+  margin: auto;
 }
-.loader{
-  padding-top: 10 !important;
+
+#loader{
+  margin: auto;
+  position: fixed;
+  top: 80px;
+  width: 100%;
+  padding: 5px;
+  text-align: center;
+  align-items:center;
+  justify-content: space-between;
 }
